@@ -1,4 +1,4 @@
-MIDlet-Name: DatabaseDemo-onSPOT
+MIDlet-Name: SendDataDemo-onSPOT
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: Oracle
 MIDlet-1: SensorSampler, , org.sunspotworld.demo.SensorSampler

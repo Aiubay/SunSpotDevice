@@ -23,7 +23,7 @@ DEALINGS IN THE SOFTWARE.
 
 -->
 
-<project basedir="." default="help" name="DatabaseDemo-onSPOT">
+<project name="SendDataDemo-onSPOT" basedir="." default="help">
 
 <!-- You may freely edit this file. See commented blocks below for -->
 <!-- some examples of how to customize the build. -->
